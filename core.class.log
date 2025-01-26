@@ -1,28 +1,28 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '584244365940@s.whatsapp.net',
+    remoteJid: '584244365933@s.whatsapp.net',
     fromMe: false,
-    id: '3A05C0F49AC690661606',
+    id: '3EB0BC98A70C5471096DF4',
     participant: undefined
   },
-  messageTimestamp: 1736913241,
-  pushName: 'Milye!',
+  messageTimestamp: 1737161427,
+  pushName: 'Rafael Agar',
   broadcast: false,
   message: Message {
-    conversation: 'Hola',
+    conversation: 'alo',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Hola',
-  from: '584244365940'
+  body: 'alo',
+  from: '584244365933'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_00030644-b57f-465e-a222-0af4b0963c2f',
-  keyword: 'key_1811b958-4153-4a84-9d36-74c40e71b3d0',
-  answer: 'Hola bienvenido a Todo Seller CCS',
+  ref: 'ans_47495bac-1714-41b1-8225-4837ed8b2a73',
+  keyword: 'key_298ccf7c-eaa2-43a7-a687-e9eef57ce2d5',
+  answer: 'Bienvenido a Todo Seller, soy un asistente virtual',
   options: {
     media: null,
     buttons: [],
@@ -35,26 +35,26 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'a2c99e0c792d3c63893e5d586b99fd7b'
+  refSerialize: 'a8dc300b0298792663406e0539bfae26'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '584244365940@s.whatsapp.net',
+    remoteJid: '584244365933@s.whatsapp.net',
     fromMe: false,
-    id: '3A1A742985324312BF33',
+    id: '3EB0F13D71CB889B117AB9',
     participant: undefined
   },
-  messageTimestamp: 1736913253,
-  pushName: 'Milye!',
+  messageTimestamp: 1737161435,
+  pushName: 'Rafael Agar',
   broadcast: false,
   message: Message {
-    conversation: 'Productos tienen hoy',
+    conversation: 'Quiero comprar audífonos',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Productos tienen hoy',
-  from: '584244365940'
+  body: 'Quiero comprar audífonos',
+  from: '584244365933'
 }
